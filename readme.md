@@ -24,4 +24,3 @@ Select Mods from the left-hand column, then choose "Add file." Add all of the mo
 ![alt text](image-4.png)
 
 You should then be able to launch the game with the Launch button on the bottom-right.
-
